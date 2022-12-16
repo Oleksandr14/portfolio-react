@@ -10,13 +10,13 @@ const Home = () => {
             <li className="content-list__item">
               <h2 className="title-2">Frontend</h2>
               <p>
-                JavaScript, TypeScript, ReactJS, Angular, Redux, HTML, CSS, NPM,
-                BootStrap, MaterialUI, Yarn, TailwindCSS, StyledComponents
+                HTML5, CSS3, SASS, Responsive/Adaptive design, GIT, JavaScript,
+                React, Webpack Parcel
               </p>
             </li>
             <li className="content-list__item">
-              <h2 className="title-2">Backend</h2>
-              <p>NodeJS, MySQL, MongoDB, PHP, Laravel</p>
+              <h2 className="title-2">SOFT SKILLS</h2>
+              <p>Teamwork, Communication, Willingness to learn, Accurate</p>
             </li>
           </ul>
         </div>

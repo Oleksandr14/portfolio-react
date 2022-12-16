@@ -6,7 +6,7 @@ const Header = () => {
       <div className="header__wrapper">
         <h1 className="header__title">
           <strong>
-            Hi, my name is <em>Yuri</em>
+            Hi, my name is <em>Oleksandr</em>
           </strong>
           <br />a frontend developer
         </h1>
@@ -14,7 +14,7 @@ const Header = () => {
           <p>with passion for learning and creating.</p>
         </div>
         <a href="#!" className="btn">
-          Download CV
+          Link to CV
         </a>
       </div>
     </header>
