@@ -20,6 +20,15 @@
     align-items: center;
 }
 
+.social__item {
+    width: 28px;
+    transition: opacity 200ms ease-in;
+}
+
+.social__item:hover {
+    opacity: 0.8;
+}
+
 .copyright {
     font-size: 16px;
 }

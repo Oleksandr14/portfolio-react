@@ -75,10 +75,6 @@ body {
 	max-width: 1200px;
 }
 
-.none {
-	display: none !important;
-}
-
 .section {
 	padding: 70px 0;
 }
@@ -164,8 +160,6 @@ body {
 	column-gap: 30px;
 	row-gap: 30px;
 }
-
-
 
 /* Project details */
 
@@ -285,25 +279,5 @@ body {
 
 	.content-list__item {
 		font-size: 16px;
-	}
-
-	/* Footer */
-
-	.footer {
-		padding: 40px 0 30px;
-	}
-
-	.footer__wrapper {
-		row-gap: 20px;
-	}
-
-	/* Social */
-
-	.social {
-		column-gap: 20px;
-	}
-
-	.social__item {
-		width: 28px;
 	}
 }
