@@ -3,6 +3,12 @@
     background-color: var(--project-card-bg);
     box-shadow: var(--box-shadow);
     border-radius: 10px;
+
+    transition: transform 200ms ease-in;
+}
+
+.project:hover {
+    transform: scale(1.1);
 }
 
 .project__img {
