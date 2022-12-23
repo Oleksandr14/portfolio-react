@@ -1,15 +1,16 @@
 {
   "files": {
     "main.css": "/portfolio-react/static/css/main.068189c9.css",
-    "main.js": "/portfolio-react/static/js/main.6ffb9a18.js",
+    "main.js": "/portfolio-react/static/js/main.d83b1e5c.js",
     "static/css/635.6f613ec2.chunk.css": "/portfolio-react/static/css/635.6f613ec2.chunk.css",
     "static/js/635.df69dff8.chunk.js": "/portfolio-react/static/js/635.df69dff8.chunk.js",
     "static/css/580.672c7c7f.chunk.css": "/portfolio-react/static/css/580.672c7c7f.chunk.css",
-    "static/js/580.a68458b9.chunk.js": "/portfolio-react/static/js/580.a68458b9.chunk.js",
-    "static/js/735.0855e36b.chunk.js": "/portfolio-react/static/js/735.0855e36b.chunk.js",
+    "static/js/580.85ce99b9.chunk.js": "/portfolio-react/static/js/580.85ce99b9.chunk.js",
+    "static/js/735.e29dbc4e.chunk.js": "/portfolio-react/static/js/735.e29dbc4e.chunk.js",
     "static/js/910.175eaf5b.chunk.js": "/portfolio-react/static/js/910.175eaf5b.chunk.js",
     "static/js/128.a3d194f7.chunk.js": "/portfolio-react/static/js/128.a3d194f7.chunk.js",
     "static/media/seacher.jpg": "/portfolio-react/static/media/seacher.21721796f16618067479.jpg",
+    "static/media/movies.jpg": "/portfolio-react/static/media/movies.1e7b3ef4f14a51d167d4.jpg",
     "static/media/filmoteka.jpg": "/portfolio-react/static/media/filmoteka.f77f8c5be99dbd63166d.jpg",
     "static/media/portfolio.jpg": "/portfolio-react/static/media/portfolio.0e7504a7c25d40c6bd67.jpg",
     "static/media/ice-cream.jpg": "/portfolio-react/static/media/ice-cream.b294292670d4ff9e2ebd.jpg",
@@ -24,17 +25,17 @@
     "index.html": "/portfolio-react/index.html",
     "static/media/linkedIn.svg": "/portfolio-react/static/media/linkedIn.c05a2ae5b158581b0f27510e1d79e379.svg",
     "main.068189c9.css.map": "/portfolio-react/static/css/main.068189c9.css.map",
-    "main.6ffb9a18.js.map": "/portfolio-react/static/js/main.6ffb9a18.js.map",
+    "main.d83b1e5c.js.map": "/portfolio-react/static/js/main.d83b1e5c.js.map",
     "635.6f613ec2.chunk.css.map": "/portfolio-react/static/css/635.6f613ec2.chunk.css.map",
     "635.df69dff8.chunk.js.map": "/portfolio-react/static/js/635.df69dff8.chunk.js.map",
     "580.672c7c7f.chunk.css.map": "/portfolio-react/static/css/580.672c7c7f.chunk.css.map",
-    "580.a68458b9.chunk.js.map": "/portfolio-react/static/js/580.a68458b9.chunk.js.map",
-    "735.0855e36b.chunk.js.map": "/portfolio-react/static/js/735.0855e36b.chunk.js.map",
+    "580.85ce99b9.chunk.js.map": "/portfolio-react/static/js/580.85ce99b9.chunk.js.map",
+    "735.e29dbc4e.chunk.js.map": "/portfolio-react/static/js/735.e29dbc4e.chunk.js.map",
     "910.175eaf5b.chunk.js.map": "/portfolio-react/static/js/910.175eaf5b.chunk.js.map",
     "128.a3d194f7.chunk.js.map": "/portfolio-react/static/js/128.a3d194f7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.068189c9.css",
-    "static/js/main.6ffb9a18.js"
+    "static/js/main.d83b1e5c.js"
   ]
 }
