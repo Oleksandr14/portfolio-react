@@ -10,6 +10,7 @@ import project05 from '../img/projects/phonebook.jpg';
 import project05Big from '../img/projects/phonebook.jpg';
 import project06 from '../img/projects/seacher.jpg';
 import project06Big from '../img/projects/seacher.jpg';
+import project07 from '../img/projects/movies.jpg';
 
 const projects = [
   {
@@ -34,31 +35,41 @@ const projects = [
     skills: 'HTML, SASS, JS, Parcel',
     img: project03,
     imgBig: project03Big,
-    gitHubLink: 'https://oleksandr14.github.io/goit-markup-hw-08/',
+    gitHubLink: 'https://github.com/Oleksandr14/goit-markup-hw-08',
   },
   {
     id: 4,
-    title: 'Calculate',
-    skills: 'HTML, CSS3, JS',
-    img: project04,
-    imgBig: project04Big,
-    gitHubLink: 'https://oleksandr14.github.io/calculate-js/',
+    title: 'Movies',
+    skills: 'React, JS, Styled-Components, Styled System',
+    img: project07,
+    imgBig: project07,
+    gitHubLink: 'https://github.com/Oleksandr14/goit-react-hw-05-movies',
   },
   {
     id: 5,
-    title: 'Phonebook',
-    skills: 'React, JS, Styled-Components, Styled System',
-    img: project05,
-    imgBig: project05Big,
-    gitHubLink: 'https://oleksandr14.github.io/goit-react-hw-04-phonebook/',
-  },
-  {
-    id: 6,
     title: 'The searcher',
     skills: 'React, JS, Styled-Components, Styled System',
     img: project06,
     imgBig: project06Big,
     gitHubLink: 'https://github.com/Oleksandr14/goit-react-hw-04-images',
+  },
+
+  {
+    id: 6,
+    title: 'Phonebook',
+    skills: 'React, JS, Styled-Components, Styled System',
+    img: project05,
+    imgBig: project05Big,
+    gitHubLink: 'https://github.com/Oleksandr14/goit-react-hw-04-phonebook',
+  },
+
+  {
+    id: 7,
+    title: 'Calculate',
+    skills: 'HTML, CSS3, JS',
+    img: project04,
+    imgBig: project04Big,
+    gitHubLink: 'https://github.com/Oleksandr14/calculate-js',
   },
 ];
 
