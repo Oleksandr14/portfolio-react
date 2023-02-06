@@ -12,7 +12,7 @@ const Footer = () => {
           <ul className="social">
             <li className="social__item">
               <a
-                href="https://www.instagram.com/palamar4uk_com/?next=%2F"
+                href="#"
                 target="_blank"
                 rel="noreferrer"
               >
