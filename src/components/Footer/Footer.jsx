@@ -1,7 +1,7 @@
 import './style.css';
 
 import linkedIn from '../../img/icons/linkedIn.svg';
-import instagram from '../../img/icons/instagram.svg';
+import telegram from '../../img/icons/tel-1.svg';
 import gitHub from '../../img/icons/gitHub.svg';
 
 const Footer = () => {
@@ -12,11 +12,11 @@ const Footer = () => {
           <ul className="social">
             <li className="social__item">
               <a
-                href="https://www.instagram.com/palamar4uk_com/?next=%2F"
+                href="https://t.me/Alexpalamar_chuk"
                 target="_blank"
                 rel="noreferrer"
               >
-                <img src={instagram} alt="Link" />
+                <img src={telegram} alt="Link" />
               </a>
             </li>
 
