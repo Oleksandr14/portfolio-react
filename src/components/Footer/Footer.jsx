@@ -12,11 +12,7 @@ const Footer = () => {
           <ul className="social">
             <li className="social__item">
               <a
-<<<<<<< HEAD
                 href="https://t.me/Alexpalamar_chuk"
-=======
-                href="#"
->>>>>>> 50ba9ce50140b7bfb1fa6197d2b7535c19eda759
                 target="_blank"
                 rel="noreferrer"
               >
